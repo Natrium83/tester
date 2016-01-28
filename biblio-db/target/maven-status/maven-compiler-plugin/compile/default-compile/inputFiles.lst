@@ -1,0 +1,7 @@
+/Users/toby/git/tester/biblio-db/src/main/java/de/hrw/swep/biblio/persistence/DBInterface.java
+/Users/toby/git/tester/biblio-db/src/main/java/de/hrw/swep/biblio/persistence/dto/GebuehrDTO.java
+/Users/toby/git/tester/biblio-db/src/main/java/de/hrw/swep/biblio/persistence/DAO.java
+/Users/toby/git/tester/biblio-db/src/main/java/de/hrw/swep/biblio/persistence/DBLoad.java
+/Users/toby/git/tester/biblio-db/src/main/java/de/hrw/swep/biblio/persistence/HsqlDatabaseOperation.java
+/Users/toby/git/tester/biblio-db/src/main/java/de/hrw/swep/biblio/persistence/dto/BenutzerDTO.java
+/Users/toby/git/tester/biblio-db/src/main/java/de/hrw/swep/biblio/persistence/dto/BuchDTO.java
