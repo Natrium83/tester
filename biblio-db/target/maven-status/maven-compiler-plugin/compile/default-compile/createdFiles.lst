@@ -1,0 +1,7 @@
+de/hrw/swep/biblio/persistence/DAO.class
+de/hrw/swep/biblio/persistence/dto/GebuehrDTO.class
+de/hrw/swep/biblio/persistence/DBLoad.class
+de/hrw/swep/biblio/persistence/dto/BuchDTO.class
+de/hrw/swep/biblio/persistence/HsqlDatabaseOperation.class
+de/hrw/swep/biblio/persistence/DBInterface.class
+de/hrw/swep/biblio/persistence/dto/BenutzerDTO.class
